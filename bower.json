@@ -1,0 +1,9 @@
+{
+   "name": "svg.draggable",
+   "version": "0.0.1",
+   "description": "svg.draggable Bower package",
+   "main": "svg.draggable.js",
+   "keywords": [
+     "svg.draggable"
+   ]
+ }
